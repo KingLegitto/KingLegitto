@@ -1,6 +1,6 @@
 - 👑 Hi, I'm Legitto.
 - 🎯 I like making apps.
-- 🔥 React, Tailwind and Framer motion are my soulmates.
+- 🔥 Next + Tailwind + Fastapi = ✨.
 
 <!---
 KingLegitto/KingLegitto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
