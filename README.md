@@ -1,6 +1,8 @@
-- 👑 Hi, I'm Legitto.
-- 🎯 I like making apps.
-- 🔥 Next + Tailwind + Fastapi = ✨.
+- 💻 Apps
+- 📈 Data science
+- 🤖 Machine Learning
+
+- 🔥 Next + Tailwind + Fastapi + Sci-kit = ✨.
 
 <!---
 KingLegitto/KingLegitto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
