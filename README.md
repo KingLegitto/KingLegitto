@@ -1,7 +1,6 @@
 - 💻 Apps
 - 📈 Data science
 - 🤖 Machine Learning
-
 - 🔥 Next + Tailwind + Fastapi + Sci-kit = ✨.
 
 <!---
