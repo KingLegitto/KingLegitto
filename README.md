@@ -1,7 +1,10 @@
 - 💻 Apps
 - 📈 Data science
 - 🤖 Machine Learning
-- 🔥 Next + Tailwind + Fastapi + Sci-kit = ✨.
+- 🔥 Next.js + Tailwind + FastApi + Sci-kit = ✨.
+
+Hello there, comming to check out my repos?
+Most of my past work are private repos but feel free to check around regardless 👍
 
 <!---
 KingLegitto/KingLegitto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
