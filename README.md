@@ -1,9 +1,10 @@
 - 💻 Apps
 - 📈 Data science
 - 🤖 Machine Learning
-- 🔥 Next.js + Tailwind + FastApi + Sci-kit = ✨.
+- 🔥 Next.js + Tailwind + FastAPI + Sci-kit = ✨.
 
-Hello there, comming to check out my repos?
+Hello there, comming to check out my repos? 
+
 Most of my past work are private repos but feel free to check around regardless 👍
 
 <!---
